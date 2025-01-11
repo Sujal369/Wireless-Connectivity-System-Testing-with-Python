@@ -1,0 +1,4 @@
+Test,Status,Details
+Wi-Fi Connectivity,Pass,Ping response: 0.530341625213623 ms
+Bluetooth Discovery,Fail,No devices found.
+Simultaneous Operations,Pass,All operations executed successfully.

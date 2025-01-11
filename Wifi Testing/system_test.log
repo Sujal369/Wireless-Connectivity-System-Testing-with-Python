@@ -1,0 +1,26 @@
+2025-01-11 13:32:32,329 - INFO - Starting system testing.
+2025-01-11 13:32:32,329 - INFO - Starting Wi-Fi connectivity test.
+2025-01-11 13:32:32,434 - INFO - Wi-Fi test passed. Ping response: 0.08710741996765137 ms
+2025-01-11 13:32:32,449 - INFO - Starting Bluetooth discovery test.
+2025-01-11 13:32:32,666 - ERROR - Bluetooth test failed: [WinError -2147020577] The device is not ready for use
+2025-01-11 13:32:32,667 - INFO - Starting simultaneous operations test.
+2025-01-11 13:32:32,743 - INFO - Operation 1: Ping response: 0.07565832138061523 ms
+2025-01-11 13:32:32,798 - INFO - Operation 2: Ping response: 0.052786827087402344 ms
+2025-01-11 13:32:32,883 - INFO - Operation 3: Ping response: 0.07432889938354492 ms
+2025-01-11 13:32:32,884 - INFO - Simultaneous operations test passed.
+2025-01-11 13:32:32,884 - INFO - Generating test report.
+2025-01-11 13:32:32,899 - INFO - Test report generated: test_report.csv
+2025-01-11 13:32:32,900 - INFO - System testing completed. Check 'test_report.csv' and logs for details.
+2025-01-11 13:33:08,627 - INFO - Starting system testing.
+2025-01-11 13:33:08,630 - INFO - Starting Wi-Fi connectivity test.
+2025-01-11 13:33:09,165 - INFO - Wi-Fi test passed. Ping response: 0.530341625213623 ms
+2025-01-11 13:33:09,167 - INFO - Starting Bluetooth discovery test.
+2025-01-11 13:33:14,389 - ERROR - Bluetooth test failed: No devices found.
+2025-01-11 13:33:14,390 - INFO - Starting simultaneous operations test.
+2025-01-11 13:33:14,983 - INFO - Operation 1: Ping response: 0.5923824310302734 ms
+2025-01-11 13:33:15,056 - INFO - Operation 2: Ping response: 0.07113218307495117 ms
+2025-01-11 13:33:15,127 - INFO - Operation 3: Ping response: 0.06907916069030762 ms
+2025-01-11 13:33:15,128 - INFO - Simultaneous operations test passed.
+2025-01-11 13:33:15,129 - INFO - Generating test report.
+2025-01-11 13:33:15,132 - INFO - Test report generated: test_report.csv
+2025-01-11 13:33:15,133 - INFO - System testing completed. Check 'test_report.csv' and logs for details.
